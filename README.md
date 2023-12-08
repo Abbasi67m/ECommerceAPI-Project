@@ -13,6 +13,7 @@ Follow these steps to get a local copy up and running.
 
 ### Prerequisites
 - .NET 7 SDK: [Download here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- Docker: If you want to run it by Docker, you need to have Docker installed on your system. [Docker's official website](https://www.docker.com/get-started)
 
 ### Usage
 Use the implemented swagger UI to test the APIs
@@ -27,9 +28,17 @@ Use the implemented swagger UI to test the APIs
    ```
    cd ECommerceAPI
    ```
-4. Restore dependencies
+3. Restore dependencies
+   ```
+   dotnet restore
+   ```
+4. Build and Run with dotnet
    ```
    dotnet run
+   ```
+5. Build and Run with Docker Compose:
+   ```
+   docker-compose up --build
    ```
 
 ### Running Tests
