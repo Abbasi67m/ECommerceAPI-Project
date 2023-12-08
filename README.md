@@ -16,7 +16,7 @@ Follow these steps to get a local copy up and running.
 
 ### Usage
 Use the implemented swagger UI to test the APIs
-![Swagger](/swaggerUI.png)
+![Swagger](/blob/main/SwaggerUI.png)
 
 ### Installation
 1. Clone the repo
