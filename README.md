@@ -16,11 +16,12 @@ Follow these steps to get a local copy up and running.
 
 ### Installation
 1. Clone the repo
-   ```sh
+   ```
    git clone https://github.com/Abbasi67m/ECommerceAPI-Project.git
-
+   ```
 2. Navigate to the project directory
   ```sh
   cd ECommerceAPI
+3. Restore dependencies
 
 
