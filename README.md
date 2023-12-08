@@ -1,7 +1,7 @@
 # ECommerceAPI
 
 ## About The Project
-A Simple Test for Auctria
+A Technical Test for Auctria
 
 ### Built With
 - [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
@@ -16,7 +16,7 @@ Follow these steps to get a local copy up and running.
 
 ### Usage
 Use the implemented swagger UI to test the APIs
-![Swagger](swaggerUI.png)
+![Swagger](/swaggerUI.png)
 
 ### Installation
 1. Clone the repo
